@@ -1,0 +1,67 @@
+.log-in-container  {
+    display: flex;
+    border-radius: 5px !important;
+    align-items: center;
+      justify-content: center;
+      height: 100vh
+  }
+  .log-in-card-body {
+    padding: 3rem 3rem !important;
+  }
+  .total-card {
+    margin-top: -4%;
+  }
+  .left-card-body {
+    padding: 5rem 2rem;
+    justify-content: center;
+    background: linear-gradient(rgba(2, 178, 248, 0.945), rgb(0, 90, 175));
+  }
+  .right-card-body {
+    padding: 2rem 2rem;
+    background-color: white;
+  }
+  .custom-icons {
+    margin: 2%;
+  }
+  .sign-in-button {
+    width: 100px !important;
+    border: 2px solid white;
+    background: transparent;
+    border-radius: 20px !important;
+    color: white;
+    background: linear-gradient(
+      rgba(2, 178, 248, 0.945), rgb(0, 90, 175)
+    ) !important;
+  }
+  .msg-custom {
+    margin: 5% 20% 5% 20%;
+  }
+  .mediaBtn {
+    font-size: 1.9rem;
+  }
+  .sign-in-form {
+    width: 400px !important;
+    transition: fade;
+    background-color: silver;
+    text-align: center;
+    border-radius: 2px !important;
+  }
+  .sign-in-input {
+    display: flex;
+    justify-content: center;
+    padding: 0rem 1rem 0rem 1rem;
+  }
+  .sign-in-from-control {
+    background-color: rgb(205, 224, 245) !important;
+  }
+  .col-md-2 {
+    position: relative;
+    justify-content: center;
+  }
+  .col-md-6.coloumn.left-bg.new.text-white {
+    padding: 7em 2em 2em 2em;
+  }
+  .login-card{
+    justify-content: center;
+      align-items: center;
+  }
